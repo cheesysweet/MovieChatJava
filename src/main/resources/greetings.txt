@@ -1,0 +1,8 @@
+<hello> and welcome to our movie service! How can I help you with your movie questions today?
+<hi> there, are you looking for some assistance with movie-related inquiries?
+<greetings>! How may I assist you with any movie-related questions?
+<good (morning|afternoon|evening|day)>! Are you in need of help with anything related to movies?
+<hi>, how may I assist you with your movie-related queries?
+<hello>! I'm here to help with any movie-related questions you may have.
+<hey> there, are you looking for any help with movie information?
+<greetings>! What can I assist you with in terms of movie questions?
